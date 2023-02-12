@@ -1,5 +1,5 @@
 # Introduction
-This repo is maintained by Oussama Saoudi, Oliver Oxford, Abdullah Eshaq
+This repo was maintained by Oussama Saoudi, Oliver Oxford, Abdullah Eshaq. It was developed in a school github account which I no longer have access to, but I copied the files over to here.
 
 # How to run the project
 1. Install guava into your project dependencies
